@@ -1,6 +1,6 @@
 ### wassup bro
 
-- Estou fazendo nenhum projeto atualmente
+- Estou fazendo um Gameboy Emulator
 - Estou estudando HTML e CSS
 - Pronouns: ele/dele
 <div align="center">
