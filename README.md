@@ -1,9 +1,9 @@
 ### wassup bro
 
-- Estou querendo estudar Ciência da Computação na ETEC
+- Estou aprendendo programação como Hobby
 - Estou estudando HTML e CSS
 - Pronouns: ele/dele
-- Tenho 14 anos
+- Tenho 15 anos
 <div align="center">
   <a href="https://github.com/quasarcoding">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quasarcoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
