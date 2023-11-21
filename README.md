@@ -1,9 +1,9 @@
-### wassup bro
+### oi
 
-- Estou aprendendo programação como Hobby
-- Estou estudando HTML e CSS
-- Pronouns: ele/dele
-- Tenho 15 anos
+faço programação so por diversão, mas se der mt certo eu espero trabalhar com isso
+estudo backend e frontend mas acho q gosto mais de backend
+so homem hetero e legal
+sou um adolescente de 15 ano
 <div align="center">
   <a href="https://github.com/quasarcoding">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quasarcoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
